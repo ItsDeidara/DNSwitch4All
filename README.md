@@ -1,4 +1,4 @@
-# DNSwitch
+# DNSwitch4All
 
 Easier/Noob friendly version of DNSwitch
 
